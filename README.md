@@ -29,13 +29,13 @@ _Assitant Head of Year 12-13 and Teacher of Maths_
 #### Problem solving skills
 
 - Daily use of mathematical problem solving skills including Further Maths A Level.
-- Having spoken to frustrated colleagues about data entry submissions in my role as Assistant Examinations Officer, I built a spreadsheet which made the whole process faster, by using automation to eliminate repetition and load relevant data accordingly.
-- I created a "clash" spreadsheet to expedite timetabling.
+- Having spoken to frustrated colleagues about data entry submissions in my role as Assistant Examinations Officer, I decided to build a spreadsheet to make the whole process faster, by using automation to eliminate repetition and load relevant data accordingly. I used feedback from staff to continually improve it and it has now been incorporated into the standard systems.
+- As part of that same role, I created a "clash" spreadsheet to expedite my individual timetabling task.
 - Frequent use of pastoral care problem solving skills to support students' learning and overall wellbeing.
 
 #### Organisational, analytical and resilience skills
 
-- Crucial skills to be an effective teacher. Every lesson requires detailed planning for groups and on an individual level. Daily use of analytical skills to assess the success of an approach, and resilience and the ability to call upon multiple alternative strategies when needed.
+- These are crucial skills to be an effective teacher. Every lesson requires detailed planning for groups and on an individual level. Daily use of analytical skills to assess the success of an approach, and resilience and the ability to call upon multiple alternative strategies when approaches did not fully work.
 - Multiple examples of clients achieving and exceeding goals across all year groups throughout my career.
 - Evidence ??
 
