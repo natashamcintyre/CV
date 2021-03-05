@@ -13,7 +13,7 @@ Determined, reliable and resilient, I am a full stack software developer excited
 
 ## Experience
 
-**Projects at Makers Academy** (Oct 2020 to Feb 2021)
+**Projects at Makers Academy** (Oct 2020 to Feb 2021)\
 _Student_
 
 - Built imitations of several well-known services, including Twitter, Instagram, Facebook and Airbnb, some collaboratively and some individually.
@@ -21,12 +21,12 @@ _Student_
 - Taught myself how to use Active Record outside of Rails.
 - I have 2 projects lined up to add Python and Django to my toolbelt, as well as building a mobile app with React Native.
 
-**St Margaret's School** (Sept 2017 to Aug 2020)  
+**St Margaret's School** (Sept 2017 to Aug 2020)\
 _Assistant Examinations Officer and Teacher of Maths_
 
 - Effective collaboration with colleagues to share good practices, as well as strong independent working skills. Developed Excel files to expedite administrative tasks for school examinations. Constant user of technology in the classroom. My multiple responsibilities required the ability to manage high pressure in a fast-paced environment.
 
-**Mill Hill County High School** (Sept 2010 to Aug 2014)  
+**Mill Hill County High School** (Sept 2010 to Aug 2014)\  
 _Assistant Head of Year 12-13 and Teacher of Maths_
 
 - Applied strong organisation and empathetic skills to my roles, which included overall responsibility for all sixth form students, effective teaching to a wide variety of students as well as leadership and support roles on the school's ski, sport and Duke of Edinburgh trips.
