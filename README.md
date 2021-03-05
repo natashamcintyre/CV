@@ -1,6 +1,6 @@
 ## Natasha McIntyre
 
-Determined, reliable and resilient, I am a full stack software developer excited about embarking on a new career in tech. As an ex musician, maths teacher and exams officer, I will bring my creativity, my curiosity and my passion for puzzles, challenge and progression to my role to influence a more diverse approach to the design of technologies. My aim is to work collaboratively to increase efficiency and to expedite and develop technology for the benefit of society. I believe in building well tested products with good quality code and close attention to detail.
+Determined, reliable and resilient, I am a full stack software developer excited about embarking on a new career in tech. As an ex musician, maths teacher and exams officer, I will bring my creativity, my curiosity and my passion for puzzles, challenge and progression to my role to influence a diverse approach to the design of technologies. My aim is to work collaboratively to increase efficiency and to expedite and develop technology for the benefit of society. I believe in building well tested products with good quality code and close attention to detail.
 
 ## Projects
 
