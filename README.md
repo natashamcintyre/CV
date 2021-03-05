@@ -78,11 +78,11 @@ _Assistant Head of Year 12-13 and Teacher of Maths_
 
 #### Other qualifications
 
-A Levels: Maths A, Music A, Latin A\
-Music: Piano, Violin and Music Theory Grade 8 with Distinctions
+- A Levels: Maths A, Music A, Latin A\
+- Music: Piano, Violin and Music Theory Grade 8 with Distinctions
 
 ## Hobbies
 
-Music: Performed with the National Youth Orchestra of Great Britain, Young Musician Symphony Orchestra and European Youth Summer Music.\
-Sport: Avid skier. Ran the 2013 Berlin marathon.\
-Travel: Travelled extensively through the americas, New Zealand and Asia. Hiked in the Himalayas and the Andes, gained the Advanced PADI scuba diving qualification and learned new languages including Spanish and Japanese. Loved the different cultures and food!
+- Music: Performed with the National Youth Orchestra of Great Britain, Young Musician Symphony Orchestra and European Youth Summer Music.\
+- Sport: Avid skier. Ran the 2013 Berlin marathon.\
+- Travel: Travelled extensively through the americas, New Zealand and Asia. Hiked in the Himalayas and the Andes, gained the Advanced PADI scuba diving qualification and learned new languages including Spanish and Japanese. Loved the different cultures and food!
