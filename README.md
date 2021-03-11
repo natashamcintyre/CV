@@ -8,7 +8,7 @@ Determined, reliable and resilient, I am a full stack software developer, a care
 | ---------------------------- | ----------------- | ----------------- |
 | [**Book Me Up**](https://github.com/natashamcintyre/book_swap) | A web application to facilitate book sharing within the community, particularly as libraries are currently closed. Final project at Makers. | MongoDB, Express, React, Node.JS. Tested with Enzyme, Mocha-Chai and Cypress. Separate frontend and backend which communicate via API only. Single page functionality. Built in an agile team over 2 weeks and currently reflecting and refactoring. |
 | [**Acebook-JAANIS**](https://github.com/natashamcintyre/acebook-JAANIS) | A webapp imitation of Facebook where signed up users can write posts, edit and delete their own posts, like each other's posts and share posts on other social sites. A project at Makers. | Ruby on Rails, Active Record, PostgreSQL, Javascript frontend, APIs and single page functionality. Tested with RSpec. Built in an agile team over 2 weeks. |
-| [**Bank-tech-test**](https://github.com/natashamcintyre/bank-tech-test) | A project focused on high code quality | Ruby, tested with RSpec and linted with Rubocop. Completed independently. |
+| [**Bank-tech-test**](https://github.com/natashamcintyre/bank-tech-test) | An independent project focused on high code quality | Ruby, tested with RSpec and linted with Rubocop. |
 |[**Chitter**](https://github.com/natashamcintyre/chitter-challenge) | A social service built in the likeness of Twitter. An independent project at Makers. | Ruby, Active Record (no rails), PostgreSQL. |
 
 ## Skills
@@ -41,19 +41,19 @@ Determined, reliable and resilient, I am a full stack software developer, a care
 _Student_
 
 - Built imitations of several well-known services, including [Twitter](https://github.com/natashamcintyre/chitter-challenge), [Instagram](https://github.com/natashamcintyre/instagram-challenge), [Facebook](https://github.com/natashamcintyre/acebook-JAANIS) and [Airbnb](https://github.com/natashamcintyre/makersbnb_challenge), some collaboratively and some individually.
-- Worked in an agile team to develop the beginnings of a book sharing app, Book Me Up, in an entirely new tech stack in just two weeks. We focused on using a high-quality test-driven development process and sharing our learnings across the team to ensure all team members understood all parts of the code.
+- Worked in an agile team to develop the beginnings of a book sharing app, [Book Me Up](https://github.com/natashamcintyre/book_swap), in an entirely new tech stack in just two weeks. We focused on using a high-quality test-driven development process and sharing our learnings across the team to ensure all team members understood all parts of the code.
 - Taught myself how to use Active Record outside of Rails.
-- I have 2 projects lined up to add Python and Django to my toolbelt, as well as building a mobile app with React Native.
+- I have 2 projects lined up to learn Python, Django and React Native.
 
 **St Margaret's School** (Sept 2017 to Aug 2020)\
 _Assistant Examinations Officer and Teacher of Maths_
 
-- Effective collaboration with colleagues to share good practices, as well as strong independent working skills. Developed Excel files to expedite administrative tasks for school examinations. Constant user of technology in the classroom. My multiple responsibilities required the ability to manage high pressure in a fast-paced environment.
+- Effective collaboration with colleagues to share good practices, as well as strong independent working skills. Constant user of technology in the classroom. My multiple responsibilities required the ability to manage high pressure in a fast-paced environment.
 
 **Mill Hill County High School** (Sept 2010 to Aug 2014)\  
 _Assistant Head of Year 12-13 and Teacher of Maths_
 
-- Applied strong organisation and empathetic skills to my roles, which included overall responsibility for all sixth form students, effective teaching to a wide variety of students as well as leadership and support roles on the school's ski, sport and Duke of Edinburgh trips.
+- Applied strong organisation and empathetic skills to my roles, which included overall responsibility for all sixth form students, effective teaching to a wide variety of students as well as leadership and support roles on ski, sport and Duke of Edinburgh trips.
 
 
 ## Education
