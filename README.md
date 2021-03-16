@@ -22,7 +22,7 @@ Determined, reliable and resilient, I am a full stack software developer, a care
 
 #### Organisational, analytical and resilience skills
 
-- The Makers course is an intensive bootcamp focused on deep learning of core programming concepts with the aim of becoming language agnostic. The course demanded superior self-learning skills, effective time management, persistance and resilience, high-quality agile teamwork and strong motivation for independent projects.
+- The Makers course is an intensive bootcamp focused on deep learning of core programming concepts with the aim of becoming language agnostic. The course demanded superior self-learning skills, effective time management, persistence and resilience, high-quality agile teamwork and strong motivation for independent projects.
 - Reflecting at the end of each project enabled me to analyse my progress and identify areas for improvement, which I could then focus on in the next project. For example, having identified that test-driven development was a priority, we incorporated it as one of the primary goals in the [Book Me Up](https://github.com/natashamcintyre/book_swap) project.
 - These are also crucial skills to be an effective teacher. Every lesson requires detailed planning for groups and on an individual level. Daily use of analytical skills to assess the success of an approach, and resilience and the ability to call upon multiple alternative strategies when approaches did not fully work.
 - Multiple examples of clients achieving and exceeding goals across all year groups throughout my career.
