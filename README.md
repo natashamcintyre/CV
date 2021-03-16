@@ -1,6 +1,6 @@
 ## Natasha McIntyre
 
-Determined, reliable and resilient, I am a full stack software developer, a career changer who has graduated from the Makers bootcamp and I am very excited about embarking on a new career in tech. As an ex musician, maths teacher and exams officer, I will bring my creativity, curiosity, interpersonal skills, attention to detail, and my passion for puzzles, challenge and progression to my role to influence a diverse approach to the design of technologies. My aim is to work collaboratively to increase efficiency and to expedite and develop technology for the benefit of society. I believe in building well tested products with high quality code.
+Determined, reliable and resilient, I am a full stack software developer, a career changer who has graduated from the [Makers bootcamp](https://github.com/natashamcintyre/CV/blob/master/README.md#makers-academy-october-2020-to-february-2021) and I am very excited about embarking on a new career in tech. As an ex musician, maths teacher and exams officer, I will bring my creativity, curiosity, interpersonal skills, attention to detail, and my passion for puzzles, challenge and progression to my role to influence a diverse approach to the design of technologies. My aim is to work collaboratively to increase efficiency and to expedite and develop technology for the benefit of society. I believe in building well tested products with high quality code.
 
 ## Projects
 
@@ -59,11 +59,12 @@ _Assistant Head of Year 12-13 and Teacher of Maths_
 ## Education
 
 #### Makers Academy (October 2020 to February 2021)
+_With a focus on learning to learn and continuous development, Makers is arguably London's leading software development bootcamp which equips students with all the skills needed to become a software developer and to thrive within the fast-paced world of technology._
 
-- Independent learning and research skills used to explore and improve my understanding of OOP, TDD, MVC and DDD
+- Independent learning and research skills used to explore and develop my understanding of OOP, TDD, MVC and DDD
 - Collaborated daily in pairs and in agile teams in consideration of XP
 - New tech stacks learned rapidly, including Ruby, Rails, JavaScript, React, MERN. The latter 2 were self taught in 2 weeks whilst building Book Me Up.
-- Ensured codebase reliabilty with RSpec, Jasmine, Enzyme, Mocha-Chai, Cypress
+- Ensured codebase reliabilty with an emphasis on process using RSpec, Jasmine, Enzyme, Mocha-Chai, Cypress
 
 #### University of Birmingham (2008 to 2010 and 2011 to 2012)
 
