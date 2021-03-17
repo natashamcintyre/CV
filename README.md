@@ -4,10 +4,10 @@ Determined, reliable and resilient, I am a full stack software developer, a care
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| [**Book Me Up**] [Github](https://github.com/natashamcintyre/book_swap) | A web application to facilitate book sharing within the community, particularly as libraries are currently closed. Final project at Makers. | MongoDB, Express, React, Node.JS. Tested with Enzyme, Mocha-Chai and Cypress. Separate frontend and backend which communicate via API only. Single page functionality. Built in an agile team over 2 weeks. Currently reflecting upon, refactoring and deploying. |
-| [**Acebook-JAANIS**](https://acebook-jaanis-natasha.herokuapp.com/) [Github](https://github.com/natashamcintyre/acebook-JAANIS) | A webapp imitation of Facebook where signed up users can write posts, edit and delete their own posts, like each other's posts and share posts on other social sites. A project at Makers. | Ruby on Rails, Active Record, PostgreSQL, Javascript frontend, APIs and single page functionality. Tested with RSpec. Built in an agile team over 2 weeks. |
+| Name           | Description       | Tech/tools        |
+| -------------- | ----------------- | ----------------- |
+| [**Book Me Up**](https://github.com/natashamcintyre/book_swap) | A web application to facilitate book sharing within the community, particularly as libraries are currently closed. Final project at Makers. | MongoDB, Express, React, Node.JS. Tested with Enzyme, Mocha-Chai and Cypress. Separate frontend and backend which communicate via API only. Single page functionality. Built in an agile team over 2 weeks. Currently reflecting upon, refactoring and deploying. |
+| [**Acebook-JAANIS**](https://github.com/natashamcintyre/acebook-JAANIS) [Deployed app](https://acebook-jaanis-natasha.herokuapp.com/) | A webapp imitation of Facebook where signed up users can write posts, edit and delete their own posts, like each other's posts and share posts on other social sites. A project at Makers. | Ruby on Rails, Active Record, PostgreSQL, Javascript frontend, APIs and single page functionality. Tested with RSpec. Built in an agile team over 2 weeks. |
 | [**Bank-tech-test**](https://github.com/natashamcintyre/bank-tech-test) | An independent project focused on high code quality | Ruby, tested with RSpec and linted with Rubocop. |
 |[**Chitter**](https://github.com/natashamcintyre/chitter-challenge) | A social service built in the likeness of Twitter. An independent project at Makers. | Ruby, Active Record (no rails), PostgreSQL. |
 
