@@ -53,7 +53,8 @@ _Student_
 **St Margaret's School** (Sept 2017 to Aug 2020)  
 _Assistant Examinations Officer and Teacher of Maths_
 
-- Effective collaboration with colleagues to share good practices, as well as strong independent working skills. Constant user of technology in the classroom. My multiple responsibilities required the ability to manage high pressure in a fast-paced environment.
+- Responsible for teaching students aged 11 - 18, including Further Maths, where I focused upon the core pure and mechanics modules, and ensuring internal and public examinations were executed lawfully and with accurate data.
+- Required outstanding communication, planning and time management skills, efficient decision making, effective collaboration with colleagues to share and develop good practices, strong independent skills, persistence, and resilience in a high-pressure, fast-paced environment to fulfil my multiple responsibilities and ensure all students received the best possible education.
 
 **Mill Hill County High School** (Sept 2010 to Aug 2014)  
 _Assistant Head of Year 12-13 and Teacher of Maths_
