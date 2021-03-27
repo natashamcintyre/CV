@@ -5,7 +5,7 @@
 
 ## About Me :wave:
 
-Determined, reliable and resilient, I am a full stack software developer, a career changer who has graduated from the fully immersive [Makers Academy](https://github.com/natashamcintyre/CV/blob/master/README.md#makers-academy-october-2020-to-february-2021) software developer bootcamp and I am very excited about embarking on a new career in tech. As a musician, ex maths teacher and exams officer, I will bring my creativity, curiosity, interpersonal skills, attention to detail, and my passion for puzzles, challenge and progression to my role to influence a diverse approach to the design of technologies. My aim is to work collaboratively to expedite and develop technology for the benefit of society. I believe in building well-tested products with high-quality code.
+Determined, reliable and resilient, I am a full stack software developer, a career changer who has graduated from the fully immersive [Makers Academy](https://github.com/natashamcintyre/CV/blob/master/README.md#makers-academy-october-2020-to-february-2021) software developer bootcamp and I am very excited about embarking on a new career in tech. As a musician, ex maths teacher and exams officer, I will bring my creativity, curiosity, interpersonal skills, attention to detail, and my passion for puzzles, challenge and learning to my role to influence a diverse approach to the design of technologies. My aim is to work collaboratively to expedite and develop technology for the benefit of society. I believe in building well-tested products with high-quality code.
 
 ## Projects :woman_technologist:
 
