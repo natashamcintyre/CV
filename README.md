@@ -47,7 +47,7 @@ _Student_
 
 - Built imitations of several well-known services, including [Twitter](https://github.com/natashamcintyre/chitter-challenge), [Instagram](https://github.com/natashamcintyre/instagram-challenge), [Facebook](https://github.com/natashamcintyre/acebook-JAANIS) and [Airbnb](https://github.com/natashamcintyre/makersbnb_challenge), some collaboratively and some individually.
 - Worked in an agile team to develop the beginnings of a book sharing app, [Book Me Up](https://github.com/natashamcintyre/CV/blob/master/README.md#Projects), in an entirely new tech stack in just two weeks. We focused on using a high-quality test-driven development process and sharing our learnings across the team to ensure all team members understood all parts of the code.
-- Taught myself how to use Active Record outside of Rails.
+- Completed code reviews with experiences software developers. Please find my most recent feedback [here](https://github.com/natashamcintyre/CV/blob/master/Review-Feedback-Natasha-McIntyre-2021-03-26%20feedback.pdf).
 - I have 2 projects lined up to learn Python, Django and React Native.
 
 **St Margaret's School** (Sept 2017 to Aug 2020)  
