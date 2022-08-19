@@ -5,7 +5,7 @@
 
 ## About Me :wave:
 
-Determined, reliable and resilient, I am a full stack software developer with a passion for solving problems and creating solutions that make things easier and simpler. As a career changer, I have been able to apply and further extend multiple skillsets to my work in tech. My background in music, maths teaching and as an exams officer built and fostered my creativity, curiosity, interpersonal skills, attention to detail, and my passion for puzzles, challenge and learning, whilst my experience in software has improved my project, design and prioritisation skills. I believe in working collaboratively to build well-tested products, balancing high-quality code with speed, that deliver business and client value.
+Collaborative, resilient and adaptable, I am a full stack software developer with a passion for solving problems and creating effective and simple solutions. I thoroughly enjoy puzzles, challenge, languages and learning, and I employ creativity, curiousity and attention to detail to my work. I believe in building well-tested products, balancing high-quality code with speed, that deliver business and client value.
 
 ## Projects :woman_technologist:
 
