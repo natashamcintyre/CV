@@ -60,7 +60,7 @@ _Software Engineer_
 - Delivering learning sessions both at internal teaching and learning meetings and at a Nested-led Elixir training day.
 - Regularly participating in feedback sessions with colleagues to both offer and receive constructive feedback, upon which I reflect and act.
 - Risen to challenges along the way, whether technical, team or business related, as evidenced in my performance reviews and promotions.
-- Attended ElixirConf to expand my knowledge and network.
+- Attended ElixirConf and a Google Conference to expand my knowledge and network.
 
 
 **Projects at Makers Academy** (Oct 2020 to Feb 2021)  
