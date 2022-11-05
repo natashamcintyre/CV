@@ -53,13 +53,13 @@ _Software Engineer_
 
 - Programming daily in a functional language (Elixir) and an object-oriented language (Javascript), to build a public facing website, a delightful CRM and a customer account.
 - Mentoring a peer in their first role as a product engineer.
-- Working in agile teams in multiple formats and sizes, ranging from 3 to 11.
+- Working in agile, cross-functional teams in multiple formats and sizes, ranging from 3 to 11.
 - Regularly complete code reviews, both giving and receiving feedback, which have always been fantastic learning opportunities.
 - Working independently, showing resilience in the face of challenges whilst knowing when to ask for support from colleagues.
 - Feature leading multiple features, involving working closely with stakeholders, project managers, designers, data engineers and the entire tech team, and being responsible for breaking the problem down, making technical decisions and overseeing the development.
 - Delivering learning sessions both at internal teaching and learning meetings and at a Nested-led Elixir training day.
 - Regularly participating in feedback sessions with colleagues to both offer and receive constructive feedback, upon which I reflect and act.
-- Risen to challenges along the way, whether technical, team or business related, as evidenced in my performance reviews.
+- Risen to challenges along the way, whether technical, team or business related, as evidenced in my performance reviews and promotions.
 - Attended ElixirConf to expand my knowledge and network.
 
 
