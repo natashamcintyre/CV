@@ -3,17 +3,15 @@
 
 <h4 align=center><a href="https://github.com/natashamcintyre/CV/blob/master/README.md#About-Me">About Me</a> | <a href="https://github.com/natashamcintyre/CV/blob/master/README.md#Projects">Projects</a> | <a href="https://github.com/natashamcintyre/CV/blob/master/README.md#Skills">Skills</a> | <a href="https://github.com/natashamcintyre/CV/blob/master/README.md#Experience">Experience</a> | <a href="https://github.com/natashamcintyre/CV/blob/master/README.md#Education">Education</a> | <a href="https://github.com/natashamcintyre/CV/blob/master/README.md#Interests">Interests</a></h4>
 
-<table>
-  <tr style="width: 100%">
-  <td style="vertical-align: top; border-right: 2px solid grey; width: 35%;">
+<div style="display: flex;">
+  <div style="width: 300px; border-right: 2px solid grey;">
     <h2>About Me :wave:</h2>
-
 
 Collaborative, resilient and adaptable, I am a full stack software developer with a passion for solving problems and creating effective and simple solutions. I thoroughly enjoy puzzles, challenge, languages and learning, and I apply creativity, curiousity and attention to detail to my work. I believe in building well-tested products, balancing high-quality code with speed, that deliver business and client value.
 
-## Skills :bow_and_arrow:
+<h2>Skills :bow_and_arrow:</h2>
 
-#### Problem solving skills
+<h4>Problem solving skills</h4>
 
 - Analyse, simplify problems and create solutions when leading features, planning and building.
 - Use test-driven development to ensure reliability and build complexity.
@@ -21,7 +19,7 @@ Collaborative, resilient and adaptable, I am a full stack software developer wit
 - Apply mathematical analysis and resilience to solve complex issues.
 - Use interpersonal and pastoral problem solving skills to support students' learning and overall wellbeing.
 
-#### Organisational, analytical and resilience skills
+<h4>Organisational, analytical and resilience skills</h4>
 
 - Balance and prioritise multiple responsibilities, including feature leading, mentoring, reviewing code, shipping features, code maintainance, identifying and fixing bugs and leading tech strategy.
 - Resilient and persistant, able to call on alternative strategies when an approach is not working whilst not afraid to ask for help.
@@ -29,7 +27,7 @@ Collaborative, resilient and adaptable, I am a full stack software developer wit
 - Strong self-learning skills and effective time management.
 - Adapt to last minute changes that come with working at a start up.
 
-#### Communication, collaboration and leadership skills
+<h4>Communication, collaboration and leadership skills</h4>
 
 - Mentored a new product engineer, newly qualified teachers and underconfident students.
   - used teaching and coaching skills to guide them to find solutions, deepen understanding, encourage them to question assumptions and build resilience.
@@ -40,19 +38,42 @@ Collaborative, resilient and adaptable, I am a full stack software developer wit
 - Work closely with stakeholders, end users, product managers, designers and fellow developers, listening and contributing ideas to find elegant and simple solutions.
 - Effective communication with a wide variety of people across multiple age ranges and in a variety of working relationships, both within the business and with clients, including sensitive topics.
   
-  </td>
-  <td style="padding-left: 20px; vertical-align: top; width: 65%;">
+  </div>
+  <div style="padding-left: 20px; vertical-align: top; width: 65%;">
+
 <h3>Projects :woman_technologist:</h3>
 
-
-| Name           | Description       | Tech/tools        |
-| -------------- | ----------------- | ----------------- |
-| **Nested Tech** :house_with_garden: <br /> [Nested website](https://nested.com) <br /> Customer App <br /> Agent CRM | A tech platform for self employed estate agents and a customer app. Cross-functional team, powerful methodologies eg [feature leading](https://nested.com/blog/posts/feature-lead-engineers-ship-better-products-faster), varied projects including umbrellas and individual repos. | ReactJS, GraphQL, Flow, Elixir (Phoenix), Postgresql, Absinthe, Apollo, Terraform, mjml, Jest, Cypress. Feature leading. Agile (Kanban) style. Also involves Zapier, Prismic, webhooks, GCP, Elasticsearch, Docker and other third party integrations.
-| **Book Me Up** :books: <br /> [Backend](https://github.com/natashamcintyre/bookmeup-api) [Frontend](https://github.com/natashamcintyre/bookmeup) | A web application to facilitate book sharing within the community. Final project at Makers. | MongoDB, Express, React, Node.JS. Tested with Enzyme, Mocha-Chai and Cypress. APIs and single page functionality. Built in an agile team over 2 weeks.|
-| [**UFO NM-ation**](https://github.com/natashamcintyre/ufo-animation) :alien: <br /> [play it here](https://ufo-nm-ation.herokuapp.com/) | An animation of a UFO landing, using mathematics to map the paths of motion | JavaScript. Built independently over a few days |
-| [**Acebook JAANIS**](https://github.com/natashamcintyre/acebook-JAANIS) :speech_balloon: | A project at Makers to create a webapp imitation of Facebook. | Ruby on Rails, Active Record, PostgreSQL, Javascript frontend, APIs and single page functionality. Tested with RSpec. Built in an agile team over 2 weeks. |
-| [**Bank Tech Test**](https://github.com/natashamcintyre/bank-tech-test) :bank: | An independent project focused on high code quality | Ruby, tested with RSpec and linted with Rubocop. |
-
+<table style="width: 500px;">
+<tr>
+  <th><div style="width: 130px;">Name</div></th><th><div style="width: 200px;">Description</div></th><th><div style="width: 200px;">Tech/tools</div></th>
+</tr>
+<tr>
+  <td><div style="width: 130px;">**Nested Tech** :house_with_garden: <br /> [Nested website](https://nested.com) <br /> Customer App <br /> Agent CRM</div></td>
+  <td><div style="width: 200px;">A tech platform for self employed estate agents and a customer app. Cross-functional team, powerful methodologies eg [feature leading](https://nested.com/blog/posts/feature-lead-engineers-ship-better-products-faster), varied projects including umbrellas and individual repos.</div></td>
+  <td><div style="width: 200px;">ReactJS, GraphQL, Flow, Elixir (Phoenix), Postgresql, Absinthe, Apollo, Terraform, mjml, Jest, Cypress. Feature leading. Agile (Kanban) style. Also involves Zapier, Prismic, webhooks, GCP, Elasticsearch, Docker and other third party integrations.</div></td>
+</tr>
+<tr>
+  <td><div style="width: 130px;">
+  **Book Me Up** :books: <br /> [Backend](https://github.com/natashamcintyre/bookmeup-api) [Frontend](https://github.com/natashamcintyre/bookmeup)</div></td>
+  <td><div style="width: 200px;">A web application to facilitate book sharing within the community. Final project at Makers.</div></td>
+  <td><div style="width: 200px;">MongoDB, Express, React, Node.JS. Tested with Enzyme, Mocha-Chai and Cypress. APIs and single page functionality. Built in an agile team over 2 weeks.</div></td>
+</tr>
+<tr>
+  <td><div style="width: 130px;">[**UFO NM-ation**](https://github.com/natashamcintyre/ufo-animation) :alien: <br /> [play it here](https://ufo-nm-ation.herokuapp.com/)</div></td>
+  <td><div style="width: 200px;">An animation of a UFO landing, using mathematics to map the paths of motion</div></td>
+  <td><div style="width: 200px;">JavaScript. Built independently over a few days</div></td>
+</tr>
+<tr>
+  <td><div style="width: 130px;">[**Acebook JAANIS**](https://github.com/natashamcintyre/acebook-JAANIS) :speech_balloon:</div></td>
+  <td><div style="width: 200px;">A project at Makers to create a webapp imitation of Facebook.</div></td>
+  <td><div style="width: 200px;">Ruby on Rails, Active Record, PostgreSQL, Javascript frontend, APIs and single page functionality. Tested with RSpec. Built in an agile team over 2 weeks.</div></td>
+</tr>
+<tr>
+  <td><div style="width: 130px;">[**Bank Tech Test**](https://github.com/natashamcintyre/bank-tech-test) :bank:</div></td>
+  <td><div style="width: 200px;">An independent project focused on high code quality</div></td>
+  <td><div style="width: 200px;">Ruby, tested with RSpec and linted with Rubocop.</div></td>
+</tr>
+</table>
 
 ## Experience :owl:
 
@@ -114,6 +135,6 @@ _With a focus on learning to learn and continuous development, Makers is arguabl
 **Sport** - Avid skier. Ran the 2013 Berlin marathon. Currently enjoying netball!
 **Travel** - Travelled extensively through the Americas, New Zealand and Asia. Hiked in the Himalayas and the Andes, gained the Advanced PADI scuba diving qualification and learned new languages including Spanish and Japanese. Loved the different cultures and food!
 
-  </td>
-  </tr>
-</table>
+  </div>
+  </div>
+</div>
