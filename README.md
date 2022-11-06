@@ -11,52 +11,52 @@ Collaborative, resilient and adaptable, I am a full stack software developer wit
 
 | Name           | Description       | Tech/tools        |
 | -------------- | ----------------- | ----------------- |
-| **Nested Tech** :house_with_garden: <br /> [Nested website](https://nested.com) <br /> Customer App <br /> The Nest (a custom made CRM) | Nested is a tech focused estate agency that has grown into a business that provides tech products to self employed agents. Working in both functional and object-oriented languages in a cross-functional team, and employing powerful methodologies, such as [feature leading](https://nested.com/blog/posts/feature-lead-engineers-ship-better-products-faster), to build products which are a combination of monorepos / umbrellas and individual repos. | Elixir (Phoenix), ReactJS, GraphQL, Postgresql, Absinthe, Apollo, mjml. Feature leading. Agile (Kanban) style. Also involves Zapier, Prismic, webhooks, GCP, Elasticsearch, Docker and other third party integrations.
-| **Book Me Up** :books: <br /> [Backend](https://github.com/natashamcintyre/bookmeup-api) [Frontend](https://github.com/natashamcintyre/bookmeup) | A web application to facilitate book sharing within the community. Final project at Makers. | MongoDB, Express, React, Node.JS. Tested with Enzyme, Mocha-Chai and Cypress. Separate frontend and backend which communicate via API only. Single page functionality. Built in an agile team over 2 weeks.|
+| **Nested Tech** :house_with_garden: <br /> [Nested website](https://nested.com) <br /> Customer App <br /> Agent CRM | A tech platform for self employed estate agents and a customer app. Cross-functional team, powerful methodologies eg [feature leading](https://nested.com/blog/posts/feature-lead-engineers-ship-better-products-faster), varied projects including umbrellas and individual repos. | ReactJS, GraphQL, Flow, Elixir (Phoenix), Postgresql, Absinthe, Apollo, mjml, Jest, Cypress. Feature leading. Agile (Kanban) style. Also involves Zapier, Prismic, webhooks, GCP, Elasticsearch, Docker and other third party integrations.
+| **Book Me Up** :books: <br /> [Backend](https://github.com/natashamcintyre/bookmeup-api) [Frontend](https://github.com/natashamcintyre/bookmeup) | A web application to facilitate book sharing within the community. Final project at Makers. | MongoDB, Express, React, Node.JS. Tested with Enzyme, Mocha-Chai and Cypress. APIs and single page functionality. Built in an agile team over 2 weeks.|
 | [**UFO NM-ation**](https://github.com/natashamcintyre/ufo-animation) :alien: <br /> [play it here](https://ufo-nm-ation.herokuapp.com/) | An animation of a UFO landing, using mathematics to map the paths of motion | JavaScript. Built independently over a few days |
-| [**Acebook JAANIS**](https://github.com/natashamcintyre/acebook-JAANIS) :speech_balloon: | A webapp imitation of Facebook where signed up users can write posts, edit and delete their own posts, like each other's posts and share posts on other social sites. A project at Makers. | Ruby on Rails, Active Record, PostgreSQL, Javascript frontend, APIs and single page functionality. Tested with RSpec. Built in an agile team over 2 weeks. |
+| [**Acebook JAANIS**](https://github.com/natashamcintyre/acebook-JAANIS) :speech_balloon: | A project at Makers to create a webapp imitation of Facebook. | Ruby on Rails, Active Record, PostgreSQL, Javascript frontend, APIs and single page functionality. Tested with RSpec. Built in an agile team over 2 weeks. |
 | [**Bank Tech Test**](https://github.com/natashamcintyre/bank-tech-test) :bank: | An independent project focused on high code quality | Ruby, tested with RSpec and linted with Rubocop. |
 
 ## Skills :bow_and_arrow:
 
 #### Problem solving skills
 
-- I am confident in solving problems by breaking them down, both at the implementation stage using test-driven development, and at the planning stage. Feature leading has been an exciting and fantastic experience to enable me to apply problem solving skills to software. I have worked with stakeholders, end users and designers to research and identify problems and needs, collaborated closely with the design team to find sleek, simple solutions that meet requirements, sought feedback, guidance and offered opinions during technical decision making, broken features down into small but impactful tickets, reviewed code, ensured requirements have been met and offered alternative suggestions and learning implementation decisions along the way, taking responsibility for any changes occuring during the build.
-- As a maths teacher, problem solving might involve simplifying a problem and building it up gradually, finding patterns, or exploring a problem by trying multiple approaches in order to fully understand a best approach. These are all powerful techniques when faced with Further Maths A Level questions and also all applicable to the development challenges I enjoy solving on a daily basis.
-- I've expedited processes using automation to eliminate repetition and load relevant data accordingly, using feedback to constantly improve. This continual feedback and improvement loop is fundamental to learn effectively and one which I have used repeatedly as a musician, a teacher and a software developer.
-- Frequent use of pastoral care problem solving skills to support students' learning and overall wellbeing.
+- Analyse, simplify problems and create solutions when leading features, planning and building.
+- Use test-driven development to build complexity and ensure reliability.
+- Discuss possible solutions with the team to find the best one for the requirements.
+- Apply mathematical analysis and resilience to solve complex issues.
+- Pastoral problem solving skills to support students' learning and overall wellbeing.
 
 #### Organisational, analytical and resilience skills
 
-- I am able to balance and prioritise various responsibilities, including feature leading, mentoring, shipping changes, reviewing code, maintaining upgrades and contributing to tech strategy.
-- I show resilience and can respond to last minute changes and the detours that come with working at a start up.
-- Feedback and reflection enable me to analyse my progress and identify areas for improvement and set goals accordingly. For example, I identified contributing to technical decision making as an area to improve and joined the tech strategy team to learn about the process and offer my thoughts.
-- The Makers course demanded superior self-learning skills, effective time management, persistence and resilience, high-quality agile teamwork and strong motivation for independent projects.
-- These are also crucial skills to be an effective teacher. Every lesson requires detailed planning for groups and on an individual level. Daily use of analytical skills to assess the success of an approach, and resilience and the ability to call upon multiple alternative strategies when approaches did not fully work.
-- Multiple examples of clients achieving and exceeding goals across all year groups throughout my career.
-- Good musicians also make high use of these skills, especially discipline, resilience and self analysis in independent practice.
+- Balance and prioritise multiple responsibilities, including feature leading, mentoring, reviewing code, shipping features, code maintainance, identifying and fixing bugs and leading tech strategy.
+- Resilient and persistant, able to call on alternative strategies when an approach is not working whilst not afraid to ask for help.
+- Seek and give feedback, reflect, analyse my progress and implement growth for me and my team.
+- Strong self-learning skills and effective time management.
+- Adapt to last minute changes that come with working at a start up.
 
 #### Communication, collaboration and leadership skills
 
-- I am mentoring a peer in their first role as a product engineer. I use teaching skills in pairing sessions to guide them to find solutions, deepen understanding and encourage them to question assumptions. I give feedback on progress to increase confidence and aid them in identifying and boosting areas of improvement. I have mentored newly qualified teachers, supporting and guiding them through steep learning curves in their first year of teaching.
-- I work in cross-functional, agile teams with a mixture of independent work, pairing and mobbing. I apply the collaboration skills I use as a musician and the interpersonal skills I used a teacher to ensure effective teamwork, and my time management skills which I have developed in high pressure environments to assist with prioritisation. 
-- Regularly leading features, I have worked closely with stakeholders, third parties, product managers, the design team and fellow developers to find elegant and simple solutions to problems. This has required listening, offering suggestions, asking for honest feedback and maintaining open lines of communication with all parties throughout.
-- In [Book Me Up](https://github.com/natashamcintyre/CV/blob/master/README.md#Projects), our higher order learning goals included supporting each other by sharing knowledge after pair programming sprints, being honest and reaching out to the team when blocked, and presenting our product at the live online Demo Day. We rotated roles such that all members of the team had the opportunity to develop leadership, coaching and support skills.
-- I can communicate with a wide variety of people across multiple age ranges and in a variety of working relationships, both within the business and with clients, including sensitive topics.
-- I am familiar and able to perform under pressure, which I have done regularly both as a musician and teacher.
-- I have successfully worked with individuals who needed a confidence boost to improve their piano and mathematical skills, as well as supported newly qualified teachers through the frequent practical and emotional challenges they face.
+- Mentored a new product engineer, newly qualified teachers and underconfident students.
+  - used teaching and coaching skills to guide them to find solutions, deepen understanding, encourage them to question assumptions and build resilience.
+  - gave feedback to increase confidence and suggest next steps.
+- Promote effective teamwork in cross-functional, agile teams with a mixture of independent work, pairing and mobbing.
+- Champion equality, inclusivity, flexibility and work-life balance.
+- Leading the tech strategy scheme, running meetings and overseeing progress.
+- Work closely with stakeholders, end users, product managers, designers and fellow developers, listening and contributing ideas to find elegant and simple solutions.
+- Effective communication with a wide variety of people across multiple age ranges and in a variety of working relationships, both within the business and with clients, including sensitive topics.
 
 ## Experience :owl:
 
 **Nested Estate Agent** (May 2021 to present)
 _Software Engineer_
 
-- Programming daily in a functional language (Elixir) and an object-oriented language (Javascript), to build a public facing website, a delightful CRM and a customer account.
-- Mentoring a peer in their first role as a product engineer.
+- Programming daily in Elixir (a functional language) and Javascript (ReactJS), to build a public facing website, a delightful CRM and a customer account.
+- Volunteered to mentor a peer in their first role as a product engineer, using my teaching and communication skills to assist their development, resulting in a confident and positive team member.
 - Working in agile, cross-functional teams in multiple formats and sizes, ranging from 3 to 11.
-- Regularly complete code reviews, both giving and receiving feedback, which have always been fantastic learning opportunities.
+- Regularly complete code reviews, giving and receiving feedback and learning from my peers.
 - Working independently, showing resilience in the face of challenges whilst knowing when to ask for support from colleagues.
-- Feature leading multiple features, involving working closely with stakeholders, project managers, designers, data engineers and the entire tech team, and being responsible for breaking the problem down, making technical decisions and overseeing the development.
+- Feature leading multiple features, collaborating, being responsible for breaking the problem down, making technical decisions and overseeing the development.
 - Delivering learning sessions both at internal teaching and learning meetings and at a Nested-led Elixir training day.
 - Regularly participating in feedback sessions with colleagues to both offer and receive constructive feedback, upon which I reflect and act.
 - Risen to challenges along the way, whether technical, team or business related, as evidenced in my performance reviews and promotions.
@@ -73,7 +73,7 @@ _Student_
 **St Margaret's School** (Sept 2017 to Aug 2020)  
 _Assistant Examinations Officer and Teacher of Maths_
 
-- Responsible for teaching students aged 11 - 18, including Further Maths, where I focused upon the core pure and mechanics modules, and ensuring internal and public examinations were executed lawfully and with accurate data.
+- Responsible for teaching students aged 11 - 18, including Further Maths, and ensuring internal and public examinations were executed lawfully and with accurate data.
 - Required outstanding communication, planning and time management skills, efficient decision making, effective collaboration with colleagues to share and develop good practices, strong independent skills, persistence, and resilience in a high-pressure, fast-paced environment to fulfil my multiple responsibilities and ensure all students received the best possible education.
 
 **Mill Hill County High School** (Sept 2010 to Aug 2014)  
@@ -91,7 +91,6 @@ _With a focus on learning to learn and continuous development, Makers is arguabl
 - Independent learning and research skills used to explore and develop my understanding of OOP, TDD, MVC and DDD
 - Collaborated daily in pairs and in agile teams in consideration of XP
 - New tech stacks learned rapidly, including Ruby, Rails, JavaScript, React, MERN. The latter 2 were self taught in 2 weeks whilst building Book Me Up.
-- Ensured codebase reliabilty with an emphasis on process using RSpec, Jasmine, Enzyme, Mocha-Chai, Cypress
 
 #### University of Birmingham (2008 to 2010 and 2011 to 2012)
 
