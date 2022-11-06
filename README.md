@@ -4,8 +4,8 @@
 <h4 align=center><a href="https://github.com/natashamcintyre/CV/blob/master/README.md#About-Me">About Me</a> | <a href="https://github.com/natashamcintyre/CV/blob/master/README.md#Projects">Projects</a> | <a href="https://github.com/natashamcintyre/CV/blob/master/README.md#Skills">Skills</a> | <a href="https://github.com/natashamcintyre/CV/blob/master/README.md#Experience">Experience</a> | <a href="https://github.com/natashamcintyre/CV/blob/master/README.md#Education">Education</a> | <a href="https://github.com/natashamcintyre/CV/blob/master/README.md#Interests">Interests</a></h4>
 
 <table>
-  <tr>
-  <td style="vertical-align: top; border-right: 2px solid grey;">
+  <tr style="width: 100%">
+  <td style="vertical-align: top; border-right: 2px solid grey; width: 35%;">
     <h2>About Me :wave:</h2>
 
 
@@ -41,7 +41,7 @@ Collaborative, resilient and adaptable, I am a full stack software developer wit
 - Effective communication with a wide variety of people across multiple age ranges and in a variety of working relationships, both within the business and with clients, including sensitive topics.
   
   </td>
-  <td style="padding-left: 20px;">
+  <td style="padding-left: 20px; vertical-align: top; width: 65%;">
 <h3>Projects :woman_technologist:</h3>
 
 
