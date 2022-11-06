@@ -3,9 +3,11 @@
 
 <h4 align=center><a href="https://github.com/natashamcintyre/CV/blob/master/README.md#About-Me">About Me</a> | <a href="https://github.com/natashamcintyre/CV/blob/master/README.md#Projects">Projects</a> | <a href="https://github.com/natashamcintyre/CV/blob/master/README.md#Skills">Skills</a> | <a href="https://github.com/natashamcintyre/CV/blob/master/README.md#Experience">Experience</a> | <a href="https://github.com/natashamcintyre/CV/blob/master/README.md#Education">Education</a> | <a href="https://github.com/natashamcintyre/CV/blob/master/README.md#Interests">Interests</a></h4>
 
-<div style="display: flex;">
-<div style="width: 300px;">
-## About Me :wave:
+<table>
+  <tr>
+  <td style="vertical-align: top; border-right: 2px solid grey;">
+    <h2>About Me :wave:</h2>
+
 
 Collaborative, resilient and adaptable, I am a full stack software developer with a passion for solving problems and creating effective and simple solutions. I thoroughly enjoy puzzles, challenge, languages and learning, and I apply creativity, curiousity and attention to detail to my work. I believe in building well-tested products, balancing high-quality code with speed, that deliver business and client value.
 
@@ -37,9 +39,11 @@ Collaborative, resilient and adaptable, I am a full stack software developer wit
 - Leading the tech strategy scheme, running meetings and overseeing progress.
 - Work closely with stakeholders, end users, product managers, designers and fellow developers, listening and contributing ideas to find elegant and simple solutions.
 - Effective communication with a wide variety of people across multiple age ranges and in a variety of working relationships, both within the business and with clients, including sensitive topics.
-</div>
-<div style="padding-left: 20px;">
-## Projects :woman_technologist:
+  
+  </td>
+  <td style="padding-left: 20px;">
+<h3>Projects :woman_technologist:</h3>
+
 
 | Name           | Description       | Tech/tools        |
 | -------------- | ----------------- | ----------------- |
@@ -109,5 +113,7 @@ _With a focus on learning to learn and continuous development, Makers is arguabl
 **Music** - Performed with the National Youth Orchestra of Great Britain, Young Musician Symphony Orchestra and European Youth Summer Music.  
 **Sport** - Avid skier. Ran the 2013 Berlin marathon. Currently enjoying netball!
 **Travel** - Travelled extensively through the Americas, New Zealand and Asia. Hiked in the Himalayas and the Andes, gained the Advanced PADI scuba diving qualification and learned new languages including Spanish and Japanese. Loved the different cultures and food!
-</div>
-</div>
+
+  </td>
+  </tr>
+</table>
