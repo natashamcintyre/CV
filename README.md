@@ -3,29 +3,21 @@
 
 <h4 align=center><a href="https://github.com/natashamcintyre/CV/blob/master/README.md#About-Me">About Me</a> | <a href="https://github.com/natashamcintyre/CV/blob/master/README.md#Projects">Projects</a> | <a href="https://github.com/natashamcintyre/CV/blob/master/README.md#Skills">Skills</a> | <a href="https://github.com/natashamcintyre/CV/blob/master/README.md#Experience">Experience</a> | <a href="https://github.com/natashamcintyre/CV/blob/master/README.md#Education">Education</a> | <a href="https://github.com/natashamcintyre/CV/blob/master/README.md#Interests">Interests</a></h4>
 
+<div style="display: flex;">
+<div style="width: 300px;">
 ## About Me :wave:
 
 Collaborative, resilient and adaptable, I am a full stack software developer with a passion for solving problems and creating effective and simple solutions. I thoroughly enjoy puzzles, challenge, languages and learning, and I apply creativity, curiousity and attention to detail to my work. I believe in building well-tested products, balancing high-quality code with speed, that deliver business and client value.
-
-## Projects :woman_technologist:
-
-| Name           | Description       | Tech/tools        |
-| -------------- | ----------------- | ----------------- |
-| **Nested Tech** :house_with_garden: <br /> [Nested website](https://nested.com) <br /> Customer App <br /> Agent CRM | A tech platform for self employed estate agents and a customer app. Cross-functional team, powerful methodologies eg [feature leading](https://nested.com/blog/posts/feature-lead-engineers-ship-better-products-faster), varied projects including umbrellas and individual repos. | ReactJS, GraphQL, Flow, Elixir (Phoenix), Postgresql, Absinthe, Apollo, mjml, Jest, Cypress. Feature leading. Agile (Kanban) style. Also involves Zapier, Prismic, webhooks, GCP, Elasticsearch, Docker and other third party integrations.
-| **Book Me Up** :books: <br /> [Backend](https://github.com/natashamcintyre/bookmeup-api) [Frontend](https://github.com/natashamcintyre/bookmeup) | A web application to facilitate book sharing within the community. Final project at Makers. | MongoDB, Express, React, Node.JS. Tested with Enzyme, Mocha-Chai and Cypress. APIs and single page functionality. Built in an agile team over 2 weeks.|
-| [**UFO NM-ation**](https://github.com/natashamcintyre/ufo-animation) :alien: <br /> [play it here](https://ufo-nm-ation.herokuapp.com/) | An animation of a UFO landing, using mathematics to map the paths of motion | JavaScript. Built independently over a few days |
-| [**Acebook JAANIS**](https://github.com/natashamcintyre/acebook-JAANIS) :speech_balloon: | A project at Makers to create a webapp imitation of Facebook. | Ruby on Rails, Active Record, PostgreSQL, Javascript frontend, APIs and single page functionality. Tested with RSpec. Built in an agile team over 2 weeks. |
-| [**Bank Tech Test**](https://github.com/natashamcintyre/bank-tech-test) :bank: | An independent project focused on high code quality | Ruby, tested with RSpec and linted with Rubocop. |
 
 ## Skills :bow_and_arrow:
 
 #### Problem solving skills
 
 - Analyse, simplify problems and create solutions when leading features, planning and building.
-- Use test-driven development to build complexity and ensure reliability.
-- Discuss possible solutions with the team to find the best one for the requirements.
+- Use test-driven development to ensure reliability and build complexity.
+- Discuss possible solutions with the team to find the most appropriate.
 - Apply mathematical analysis and resilience to solve complex issues.
-- Pastoral problem solving skills to support students' learning and overall wellbeing.
+- Use interpersonal and pastoral problem solving skills to support students' learning and overall wellbeing.
 
 #### Organisational, analytical and resilience skills
 
@@ -45,22 +37,27 @@ Collaborative, resilient and adaptable, I am a full stack software developer wit
 - Leading the tech strategy scheme, running meetings and overseeing progress.
 - Work closely with stakeholders, end users, product managers, designers and fellow developers, listening and contributing ideas to find elegant and simple solutions.
 - Effective communication with a wide variety of people across multiple age ranges and in a variety of working relationships, both within the business and with clients, including sensitive topics.
+</div>
+<div style="padding-left: 20px;">
+## Projects :woman_technologist:
+
+| Name           | Description       | Tech/tools        |
+| -------------- | ----------------- | ----------------- |
+| **Nested Tech** :house_with_garden: <br /> [Nested website](https://nested.com) <br /> Customer App <br /> Agent CRM | A tech platform for self employed estate agents and a customer app. Cross-functional team, powerful methodologies eg [feature leading](https://nested.com/blog/posts/feature-lead-engineers-ship-better-products-faster), varied projects including umbrellas and individual repos. | ReactJS, GraphQL, Flow, Elixir (Phoenix), Postgresql, Absinthe, Apollo, Terraform, mjml, Jest, Cypress. Feature leading. Agile (Kanban) style. Also involves Zapier, Prismic, webhooks, GCP, Elasticsearch, Docker and other third party integrations.
+| **Book Me Up** :books: <br /> [Backend](https://github.com/natashamcintyre/bookmeup-api) [Frontend](https://github.com/natashamcintyre/bookmeup) | A web application to facilitate book sharing within the community. Final project at Makers. | MongoDB, Express, React, Node.JS. Tested with Enzyme, Mocha-Chai and Cypress. APIs and single page functionality. Built in an agile team over 2 weeks.|
+| [**UFO NM-ation**](https://github.com/natashamcintyre/ufo-animation) :alien: <br /> [play it here](https://ufo-nm-ation.herokuapp.com/) | An animation of a UFO landing, using mathematics to map the paths of motion | JavaScript. Built independently over a few days |
+| [**Acebook JAANIS**](https://github.com/natashamcintyre/acebook-JAANIS) :speech_balloon: | A project at Makers to create a webapp imitation of Facebook. | Ruby on Rails, Active Record, PostgreSQL, Javascript frontend, APIs and single page functionality. Tested with RSpec. Built in an agile team over 2 weeks. |
+| [**Bank Tech Test**](https://github.com/natashamcintyre/bank-tech-test) :bank: | An independent project focused on high code quality | Ruby, tested with RSpec and linted with Rubocop. |
+
 
 ## Experience :owl:
 
 **Nested Estate Agent** (May 2021 to present)
 _Software Engineer_
 
-- Programming daily in Elixir (a functional language) and Javascript (ReactJS), to build a public facing website, a delightful CRM and a customer account.
-- Volunteered to mentor a peer in their first role as a product engineer, using my teaching and communication skills to assist their development, resulting in a confident and positive team member.
-- Working in agile, cross-functional teams in multiple formats and sizes, ranging from 3 to 11.
-- Regularly complete code reviews, giving and receiving feedback and learning from my peers.
-- Working independently, showing resilience in the face of challenges whilst knowing when to ask for support from colleagues.
-- Feature leading multiple features, collaborating, being responsible for breaking the problem down, making technical decisions and overseeing the development.
-- Delivering learning sessions both at internal teaching and learning meetings and at a Nested-led Elixir training day.
-- Regularly participating in feedback sessions with colleagues to both offer and receive constructive feedback, upon which I reflect and act.
-- Risen to challenges along the way, whether technical, team or business related, as evidenced in my performance reviews and promotions.
-- Attended ElixirConf and a Google Conference to expand my knowledge and network.
+Elixir (a functional language) and Javascript (ReactJS), to build a website, a CRM and a customer account.
+
+Very proud of my progress at Nested, I have risen to multiple challenges whether technical, team or business related, as evidenced in my performance reviews and promotions. Working in agile, cross-functional teams in multiple formats and sizes, I successfully lead features, collaborating and facilitating decision making, overseeing the build and using retrospectives to reflect, share and receive feedback both for my learning and the team's growth. I review code in consideration of best practices, using the discussion to generate learning opportunities, and am mentoring a peer in their first role as a product engineer. I am also leading the tech strategy initiative, I deliver learning sessions internally and at an external Elixir training day, and I have attended conferences to expand my knowledge and network.
 
 
 **Projects at Makers Academy** (Oct 2020 to Feb 2021)  
@@ -112,3 +109,5 @@ _With a focus on learning to learn and continuous development, Makers is arguabl
 **Music** - Performed with the National Youth Orchestra of Great Britain, Young Musician Symphony Orchestra and European Youth Summer Music.  
 **Sport** - Avid skier. Ran the 2013 Berlin marathon. Currently enjoying netball!
 **Travel** - Travelled extensively through the Americas, New Zealand and Asia. Hiked in the Himalayas and the Andes, gained the Advanced PADI scuba diving qualification and learned new languages including Spanish and Japanese. Loved the different cultures and food!
+</div>
+</div>
