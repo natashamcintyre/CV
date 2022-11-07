@@ -1,0 +1,87 @@
+body {
+  padding: 30px 20px 20px;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+h2 {
+  padding-top: 40px;
+}
+
+body > h2:first-of-type {
+  margin-top: 0;
+  padding-top: 10px;
+  font-family: cursive;
+}
+
+li {
+  position: relative;
+  font-size: large;
+}
+
+li > span {
+  font-size: medium;
+}
+
+th, td {
+  border: 1px dashed black;
+  padding: 10px;
+}
+
+table {
+  table-layout: fixed; 
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px dashed black;
+}
+
+ul {
+  padding-inline-start: 10px;
+}
+
+.col-1 {
+  width: 22%;
+}
+
+.col-2 {
+  width: 38%;
+}
+
+.col-3 {
+  width: 40%;
+}
+
+.main-column > h2:first-child {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.left {
+  width: 30%; 
+  border-right: 2px solid lightgrey; 
+  padding-right: 30px;
+  padding-bottom: 50px;
+}
+
+.right {
+  padding-left: 30px; 
+  width: 65%;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.pagebreak {
+  page-break-before: always;
+}
+
+.show-on-print {
+  display: none;
+}

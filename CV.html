@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <script style="text/javascript">
+    function Click() {
+      document.getElementById("print-button").style.display = "none";
+      const links = document.getElementsByTagName("a");
+      for (let i = 0; i < links.length; i++) {
+        links[i].style.color = "black";
+        links[i].style.textDecoration = "none";
+      };
+      const hideOnPrint = document.getElementsByClassName("hide-on-print");
+      for (let i = 0; i < hideOnPrint.length; i++) {
+        hideOnPrint[i].style.display = "none";
+      };
+      const showOnPrint = document.getElementsByClassName("show-on-print")
+      for (let i = 0; i < showOnPrint.length; i++) {
+        showOnPrint[i].style.display = "block";
+      };
+      document.getElementById("page-2").style.padding = "50px 0 0 0";
+      document.getElementsByClassName("main-column left")[0].style.padding = "0 30px 0 0";
+    }
+    </script>
+    <h1 align=center>Natasha McIntyre</h1>
+    <h2 align=center>natashamc.cs@gmail.com</h2>
+
+    <button
+      id="print-button"
+      style="background: pink; position: absolute; top: 20px; right: 20px;"
+      onclick="Click()">
+      Print
+    </button>
+
+    <div style="display: flex; padding-top: 70px;">
+      <div class="main-column left">
+        <h2 style="padding-top: 0; margin-top: 0;">About Me 👋</h2>
+        Collaborative, resilient and adaptable, I am a full stack software
+        developer with a passion for solving problems and creating effective and
+        simple solutions. I thoroughly enjoy puzzles, challenge, languages and
+        learning, and I apply creativity, curiousity and attention to detail to
+        my work. I believe in building well-tested products, balancing
+        high-quality code with speed, that deliver business and client value.
+        <h2>Skills 🏹</h2>
+
+        <h4>Problem solving skills</h4>
+
+        <ul>
+          <li>
+            <span>
+              Analyse, simplify problems and create solutions when
+              leading features, planning and building.
+            </span>
+          </li>
+          <li>
+            <span>
+              Use test-driven development to ensure reliability and build
+              complexity.
+            </span>
+          </li>
+          <li>
+            <span>
+              Discuss possible solutions with the team to find the most
+              appropriate.
+            </span>
+          </li>
+          <li>
+            <span>
+              Apply mathematical analysis and resilience to solve complex
+              issues.
+            </span>
+          </li>
+          <li>
+            <span>
+              Use interpersonal and pastoral problem solving skills to support
+              students' learning and overall wellbeing.
+            </span>
+          </li>
+        </ul>
+
+        <h4>Organisational, analytical and resilience skills</h4>
+        <ul>
+          <li>
+            <span>
+              Balance and prioritise multiple responsibilities, including
+              feature
+              leading,
+              mentoring, reviewing code, shipping features, code maintainance,
+              identifying
+              and fixing bugs and leading tech strategy.
+            </span>
+          </li>
+          <li>
+            <span>
+              Resilient and persistant, able to call on alternative strategies
+              whilst not afraid to ask for help.
+            </span>
+          </li>
+          <li>
+            <span>
+              Seek and give feedback, reflect, analyse my progress and
+              implement growth.
+            </span>
+          </li>
+          <li><span>Strong self-learning skills and effective time management.</span></li>
+          <li>
+            <span>
+              Adapt to last minute changes that come with working at a start up.
+            </span>
+          </li>
+        </ul>
+
+        <h4>Communication, collaboration and leadership skills</h4>
+
+        <ul>
+          <li>
+            <span>
+              Promote effective teamwork in cross-functional, agile teams with a
+              mixture of independent work, pairing and mobbing.
+            </span>
+          </li>
+          <li>
+            <span>
+              Champion equality, inclusivity, flexibility and work-life
+              balance.
+            </span>
+          </li>
+          <li>
+            <span>Leading the tech strategy scheme, running meetings and
+              overseeing
+              progress.
+            </span>
+          </li>
+          <li>
+            <span>
+              Work closely with stakeholders, end users, product managers,
+              designers and fellow developers, listening and contributing ideas
+              to find elegant and simple solutions.
+            </span>
+          </li>
+          <li>
+            <span>
+              Effective communication with a wide variety of people across
+              multiple age ranges and in a variety of working relationships,
+              including sensitive topics.
+            </span>
+          </li>
+          <li>
+            <span>
+              Mentored a product engineer, teachers and underconfident students.
+            </span>
+            <ul>
+              <li>
+                <span>
+                  used coaching skills to guide them to solutions, deepen
+                  understanding, encourage questioning and build resilience.
+                </span>
+              </li>
+              <li>
+                <span>
+                  gave feedback to increase confidence and suggest next
+                  steps.
+                </span>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+      <div class="main-column right">
+
+        <h2>Projects 👩‍💻</h2>
+
+        <table>
+          <tr>
+            <th class="col-1">Name</th>
+            <th class="col-2">Description</th>
+            <th class="col-3">Tech/tools</th>
+          </tr>
+          <tr>
+            <td class="col-1">
+              <span class="bold">Nested Tech</span> 🏡 <br />
+              <a href="https://nested.com" target="_blank">Nested website</a><br
+                />
+              Customer App <br />
+              Agent CRM
+            </td>
+            <td class="col-2">
+              A tech platform for self employed estate agents and a customer
+              app.
+              Cross-functional team, powerful methodologies eg
+              <a
+                href="https://nested.com/blog/posts/feature-lead-engineers-ship-better-products-faster"
+                target="_blank">
+                feature leading
+              </a>, varied projects including umbrellas and individual repos.
+            </td>
+            <td class="col-3">
+              ReactJS, GraphQL, Flow, Elixir (Phoenix), Postgresql, Absinthe,
+              Apollo,
+              Terraform, mjml, Jest, Cypress. Feature leading. Agile (Kanban)
+              style.
+              Also involves Zapier, Prismic, webhooks, GCP, Elasticsearch,
+              Docker and
+              other third party integrations.
+            </td>
+          </tr>
+          <tr>
+            <td class="col-1">
+              <span class="bold">Book Me Up</span> 📚 <br /> <a
+                href="https://github.com/natashamcintyre/bookmeup-api"
+                target="_blank">Backend</a><br /><a
+                href="https://github.com/natashamcintyre/bookmeup"
+                target="_blank">Frontend</a></td>
+            <td class="col-2">A web application to facilitate book sharing
+              within the community. Final project at Makers.</td>
+            <td class="col-3">MongoDB, Express, React, Node.JS. Tested with
+              Enzyme, Mocha-Chai and Cypress. APIs and single page
+              functionality. Built in an agile team over 2 weeks.</td>
+          </tr>
+          <tr>
+            <td class="col-1"><a
+                href="https://github.com/natashamcintyre/ufo-animation"
+                class="bold" target="_blank">UFO NM-ation</a> 👽</td>
+            <td class="col-2">An animation of a UFO landing, using mathematics
+              to map the paths of motion</td>
+            <td class="col-3">JavaScript. Built independently over a few days</td>
+          </tr>
+          <tr>
+            <td class="col-1"><a
+                href="https://github.com/natashamcintyre/acebook-JAANIS"
+                class="bold" target="_blank">Acebook Jaanis</a> 💬</td>
+            <td class="col-2">A project at Makers to create a webapp imitation
+              of Facebook.</td>
+            <td class="col-3">Ruby on Rails, Active Record, PostgreSQL,
+              Javascript frontend, APIs and single page functionality. Tested
+              with RSpec. Built in an agile team over 2 weeks.</td>
+          </tr>
+          <tr>
+            <td class="col-1"><a
+                href="https://github.com/natashamcintyre/bank-tech-test"
+                class="bold" target="_blank">Bank Tech Test</a> 🏦</td>
+            <td class="col-2">An independent project focused on high code
+              quality</td>
+            <td class="col-3">Ruby, tested with RSpec and linted with Rubocop.</td>
+          </tr>
+        </table>
+
+        <h2>Experience 🦉</h2>
+
+        <span class="bold">Nested Estate Agent</span><span class="italic"> (May
+          2021 to present)</span>
+        <div class="italic">Software Engineer</div>
+
+        <div style="padding: 20px 0;">Very proud of my progress at Nested, I
+          have risen to multiple challenges whether technical, team or business
+          related, as evidenced in my performance reviews and promotions.
+          Working in agile, cross-functional teams in multiple formats and
+          sizes, I successfully lead features, collaborating and facilitating
+          decision making, overseeing the build and using retrospectives to
+          reflect, share and receive feedback both for my learning and the
+          team's growth. I review code in consideration of best practices, using
+          the discussion to generate learning opportunities, and am mentoring a
+          peer in their first role as a product engineer. I am also leading the
+          tech strategy initiative, I deliver learning sessions internally and
+          at an external Elixir training day, and I have attended conferences to
+          expand my knowledge and network.</div>
+
+        <span class="bold">Projects at Makers Academy</span><span
+          class="italic"> (Oct 2020 to Feb 2021)</span>
+        <div class="italic">Student</div>
+
+        <ul>
+          <li>
+            <span>Built imitations of several well-known services, including <a
+                href="https://github.com/natashamcintyre/chitter-challenge"
+                target="_blank">Twitter</a>, <a
+                href="https://github.com/natashamcintyre/instagram-challenge"
+                target="_blank">Instagram</a>, <a
+                href="https://github.com/natashamcintyre/acebook-JAANIS"
+                target="_blank">Facebook</a> and <a
+                href="https://github.com/natashamcintyre/makersbnb_challenge"
+                target="_blank">Airbnb</a>, some collaboratively and some
+              individually.
+            </span>
+          </li>
+          <li>
+            <span>Worked in an agile team to develop the beginnings of a book
+              sharing app, <a
+                href="https://github.com/natashamcintyre/CV/blob/master/README.md#Projects"
+                target="_blank">Book Me Up</a>, in an entirely new tech stack in
+              just two weeks. We focused on using a high-quality test-driven
+              development process and sharing our learnings across the team to
+              ensure all team members understood all parts of the code.</li>
+          </span>
+          <li>
+            <span>Completed code reviews with experienced software developers.
+              <span class="hide-on-print">
+                Please find my most recent feedback
+                <a
+                  href="https://github.com/natashamcintyre/CV/blob/master/Review-Feedback-Natasha-McIntyre-2021-03-26%20feedback.pdf"
+                  target="_blank">here
+                </a>.
+              </span>
+            </span>
+          </li>
+        </ul>
+
+        <span class="bold">St Margaret's School</span><span class="italic">
+          (Sept 2017 to Aug 2020)</span>
+        <div class="italic">Assistant Examinations Officer and Teacher of Maths</div>
+        <ul>
+          <li>
+            <span>
+              Responsible for teaching students aged 11 - 18, including Further
+              Maths, and ensuring internal and public examinations were executed
+              lawfully and with accurate data.
+            </span>
+          </li>
+          <li>
+            <span>Required outstanding communication, planning and time
+              management
+              skills, efficient decision making, effective collaboration with
+              colleagues to share and develop good practices, strong independent
+              skills, persistence, and resilience in a high-pressure, fast-paced
+              environment to fulfil my multiple responsibilities and ensure all
+              students received the best possible education.
+            </span>
+          </li>
+        </ul>
+
+        <span class="bold">Mill Hill County High School</span><span
+          class="italic"> (Sept 2010 to Aug 2014)</span>
+        <div class="italic">Assistant Head of Year 12-13 and Teacher of Maths</div>
+        <ul>
+          <li>
+            <span>Applied strong organisation and empathetic skills to my roles,
+              which included overall responsibility for all sixth form students,
+              effective teaching to a wide variety of students as well as
+              leadership and support roles on ski, sport and Duke of Edinburgh
+              trips.
+            </span>
+          </li>
+          <li><span>Mentored multiple newly qualified teachers</span></li>
+        </ul>
+      </div>
+    </div>
+    <div class="pagebreak"></div>
+    <h2 align=center class="show-on-print">Natasha McIntyre</h2>
+
+    <div id="page-2" style="display: flex;">
+      <div class="main-column left">
+        <h2>Interests and Activities 🎹 ⛷️ 🌎</h2>
+        <div>
+          <span class="bold">Music</span>
+          - Performed with the National Youth Orchestra of Great Britain,
+          Young Musician Symphony Orchestra and European Youth Summer Music.
+        </div>
+        <div>
+          <span class="bold">Sport</span>
+          - Avid skier. Ran the 2013 Berlin marathon. Currently enjoying
+          netball!
+        </div>
+        <div>
+          <span class="bold">Travel</span>
+          - Travelled extensively through the Americas, New Zealand and Asia.
+          Hiked in the Himalayas and the Andes, gained the Advanced PADI scuba
+          diving qualification and learned new languages including Spanish and
+          Japanese. Loved the different cultures and food!
+        </div>
+      </div>
+      <div class="main-column right">
+        <h2>Education 👩‍🎓</h2>
+
+        <span class="bold">Makers Academy</span><span class="italic"> (October
+          2020 to February 2021)</span>
+        <div class="italic">With a focus on learning to learn and continuous
+          development, Makers is arguably London's leading software development
+          bootcamp which equips students with all the skills needed to become a
+          software developer and to thrive within the fast-paced world of
+          technology.</div>
+
+        <ul>
+          <li>
+            <span>
+              Independent learning and research skills used to explore and
+              develop my understanding of OOP, TDD, MVC and DDD
+            </span>
+          </li>
+          <li>
+            <span>Collaborated daily in pairs and in agile teams in
+              consideration of XP
+            </span>
+          </li>
+          <li>
+            <span>New tech stacks learned rapidly, including Ruby, Rails,
+              JavaScript, React, MERN. The latter 2 were self taught in 2 weeks
+              whilst building Book Me Up.
+            </span>
+          </li>
+        </ul>
+
+        <span class="bold">University of Birmingham</span><span class="italic">
+          (2008 to 2010 and 2011 to 2012)</span>
+        <ul>
+          <li><span>PGCE and Master of Education with Distinction - Maths</span></li>
+          <li><span>Completed the Masters remotely whilst working full time</span></li>
+        </ul>
+
+        <span class="bold">University of Oxford</span><span class="italic">
+          (2005 to 2008)</span>
+        <ul>
+          <li><span>Master of Arts (Oxon) and BA (2:1) - Music</span></li>
+          <li>
+            <span>Manager of Oxford University String Ensemble, member of the
+              rowing
+              club and performed with multiple orchestras including professional
+              productions of musicals
+            </span>
+          </li>
+        </ul>
+
+        <span class="bold">Other qualifications</span>
+        <ul>
+          <li><span>A Levels: Maths A, Music A, Latin A</span></li>
+          <li>
+            <span>
+              Music: Piano, Violin and Music Theory Grade 8 with Distinctions
+            </span>
+          </li>
+        </ul>
+      </div>
+    </div>
+    References available on request
+  </body>
+</html>
