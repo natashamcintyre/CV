@@ -11,7 +11,7 @@ Collaborative, resilient and adaptable, I am a full stack software developer wit
 
 | Name           | Description       | Tech/tools        |
 | -------------- | ----------------- | ----------------- |
-| **Nested Tech** :house_with_garden: <br /> [Nested website](https://nested.com) <br /> Customer App <br /> Agent CRM | A tech platform for self-employed agents. Cross-functional team, powerful methodologies, such as [feature leading](https://nested.com/blog/posts/feature-lead-engineers-ship-better-products-faster), varied projects including umbrellas and individual repos. | ReactJS, GraphQL, Flow, Elixir (Phoenix), Postgresql, Absinthe, Apollo, mjml, Jest, Cypress. Feature leading. Agile (Kanban) style. Also involves Zapier, Prismic, webhooks, GCP, Elasticsearch, Docker and other third party integrations.
+| **Nested Tech** :house_with_garden: <br /> [Nested website](https://nested.com) <br /> Customer App <br /> Agent CRM | A tech platform for self-employed agents. Cross-functional team, powerful methodologies, such as [feature leading](https://nested.com/blog/posts/feature-lead-engineers-ship-better-products-faster), varied projects including umbrellas and individual repos. | ReactJS, GraphQL, Flow, Elixir (Phoenix), Postgresql, Absinthe, Apollo, Terraform, mjml, Jest, Cypress. Feature leading. Agile (Kanban) style. Also involves Zapier, Prismic, webhooks, GCP, Elasticsearch, Auth0, Docker and other third party integrations.
 | **Book Me Up** :books: <br /> [Backend](https://github.com/natashamcintyre/bookmeup-api) [Frontend](https://github.com/natashamcintyre/bookmeup) | A web application to facilitate book sharing within the community. Final project at Makers. | MongoDB, Express, React, Node.JS. Tested with Enzyme, Mocha-Chai and Cypress. APIs and single page functionality. Built in an agile team over 2 weeks.|
 | [**UFO NM-ation**](https://github.com/natashamcintyre/ufo-animation) :alien: <br /> [play it here](https://ufo-nm-ation.herokuapp.com/) | An animation of a UFO landing, using mathematics to map the paths of motion | JavaScript. Built independently over a few days |
 | [**Bank Tech Test**](https://github.com/natashamcintyre/bank-tech-test) :bank: | An independent project focused on high code quality | Ruby, tested with RSpec and linted with Rubocop. |
@@ -52,6 +52,7 @@ _Software Engineer_
 
 Very proud of my progress at Nested, I have risen to multiple challenges whether technical, team or business related, as evidenced in my performance reviews and promotions. Working in agile, cross-functional teams in multiple formats and sizes, I successfully lead features, collaborating and facilitating decision making, overseeing the build and using retrospectives to reflect, share and receive feedback both for my learning and the team's growth. I review code in consideration of best practices, using the discussion to generate learning opportunities, and am mentoring a peer in their first role as a product engineer. I am also leading the tech strategy initiative, I deliver learning sessions internally and at an external Elixir training day, and I have attended conferences to expand my knowledge and network. Some examples of my technical achievements include:
 
+- Responded to an environment variables breach which required investigation into multiple areas of legacy code and repos that I had previously not touched, meaning I had to learn fast!
 - Created a new database, backfilled and ported data accurately and transitioned the app across to simplify and solve a duplication issue with the least impact on the end user.
 - Successfully led a timeline feature in the CRM which involved complex queries of multiple databases and sorting chronologically
 - Implemented pagination for a costly query to reduce wait time for the user and the load on the database.
@@ -107,5 +108,7 @@ _Software Developer Bootcamp_
 ## Interests and Activities :musical_keyboard: :skier: :earth_americas:
 
 **Music** - Performed with the National Youth Orchestra of Great Britain, Young Musician Symphony Orchestra and European Youth Summer Music.  
+
 **Sport** - Avid skier. Ran the 2013 Berlin marathon. Currently enjoying netball!
+
 **Travel** - Travelled extensively through the Americas, New Zealand and Asia. Hiked in the Himalayas and the Andes, gained the Advanced PADI scuba diving qualification and learned new languages including Spanish and Japanese. Loved the different cultures and food!
