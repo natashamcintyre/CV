@@ -38,7 +38,7 @@ Collaborative, resilient and adaptable, I am a full stack software developer wit
 - Mentored peers and learners using coaching skills and feedback.
 
 
-## Aims :smile:
+## Aims :rocket:
 **I like to work with people who...**
 are kind, and who value teamwork and balance. I want to be part of a diverse workforce with people who champion different strengths, are not afraid to ask for help or offer support, and value learning.
 
