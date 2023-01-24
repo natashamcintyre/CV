@@ -20,22 +20,22 @@ Collaborative, resilient and adaptable, I am a full stack software developer wit
 
 #### Problem solving skills
 
-- Analyse, simplify problems and create solutions.
-- Lead features, plan and build.
+- Analyse and simplify problems
+- Lead features, plan and build
 - TDD
 
 #### Organisational, analytical and resilience skills
 
-- Resilient and persistent, able to call on alternative strategies whilst not afraid to ask for help.
-- Seek and give feedback, reflect, analyse my progress and implement growth.
+- Resilient and persistent, able to call on alternative strategies whilst not afraid to ask for help
+- Seek and give feedback, reflect, analyse and grow
 - Good prioritisation skills
 
 #### Communication, collaboration and leadership skills
 
-- Champion equality, inclusivity and flexibility.
-- Led the tech strategy scheme.
-- Work closely with stakeholders, end users, product managers, designers and fellow developers, listening and contributing ideas to find elegant and simple solutions.
-- Mentored peers and learners using coaching skills and feedback.
+- Champion equality, inclusivity and flexibility
+- Led the tech strategy scheme
+- Work closely with stakeholders, end users, product managers, designers and fellow developers, listening and contributing ideas to find elegant and simple solutions
+- Mentored peers and learners using coaching skills and feedback
 
 
 ## Aims :rocket:
@@ -57,9 +57,9 @@ Very proud of my progress at Nested, I have risen to multiple challenges whether
 
 - Joined a cross-functional team of 14 to build new features, which reduced to 3, giving me the opportunity to rise to multiple challenges and take on leadership responsibilities.
 - Led features from idea to ship, worked closely with product managers and designers, facilitated discussion, planned and oversaw the build on features that reduced stakeholder workload by 30%.
-- Collaborated closely with colleagues and stakeholders to drive initiatives to eliminate reliance on third party tools, reducing overheads by over 50%
+- Collaborated closely with colleagues and stakeholders to drive initiatives to eliminate reliance on third party tools, reducing overheads by over 50%.
 - Delivered training sessions, reviewed code, led tech strategy initiative, mentored a colleague and regularly sought feedback to learn and progress.
-- Thoroughly enjoy the variety of working across the entire stack
+- Thoroughly enjoy the variety of working across the entire stack.
 
 
 **Projects at Makers Academy** (Oct 2020 to Feb 2021)  
