@@ -11,10 +11,10 @@ Collaborative, resilient and adaptable, I am a full stack software developer wit
 
 | Name           | Description       | Tech/tools        |
 | -------------- | ----------------- | ----------------- |
-| **Nested Tech** :house_with_garden: <br /> [Nested website](https://nested.com) <br /> Customer App <br /> Agent CRM | A tech platform for self-employed agents. Cross-functional team, powerful methodologies, such as [feature leading](https://nested.com/blog/posts/feature-lead-engineers-ship-better-products-faster), varied projects including umbrellas and individual repos. | ReactJS, GraphQL, Flow, Elixir (Phoenix), Postgresql, Absinthe, Apollo, Terraform, mjml, Jest, Cypress. Feature leading. Agile (Kanban) style. Also involves Zapier, Prismic, webhooks, GCP, Elasticsearch, Auth0, Docker and other third party integrations.
-| **Book Me Up** :books: <br /> [Backend](https://github.com/natashamcintyre/bookmeup-api) [Frontend](https://github.com/natashamcintyre/bookmeup) | A web application to facilitate book sharing within the community. Final project at Makers. | MongoDB, Express, React, Node.JS. Tested with Enzyme, Mocha-Chai and Cypress. APIs and single page functionality. Built in an agile team over 2 weeks.|
-| [**UFO NM-ation**](https://github.com/natashamcintyre/ufo-animation) :alien: <br /> [play it here](https://ufo-nm-ation.herokuapp.com/) | An animation of a UFO landing, using mathematics to map the paths of motion | JavaScript. Built independently over a few days |
-| [**Bank Tech Test**](https://github.com/natashamcintyre/bank-tech-test) :bank: | An independent project focused on high code quality | Ruby, tested with RSpec and linted with Rubocop. |
+| **Nested Tech** :house_with_garden: <br /> [Nested website](https://nested.com) <br /> Customer App <br /> Agent CRM | Tech platform for self-employed agents. Cross-functional agile team. | ReactJS, GraphQL, Flow, Elixir (Phoenix), Postgresql, Absinthe, Apollo, mjml, Jest, Cypress, Terraform, GCP. [Feature leading](https://nested.com/blog/posts/feature-lead-engineers-ship-better-products-faster). Agile (Kanban) style. Also involves Zapier, Prismic, webhooks, Elasticsearch, Docker and other third party integrations.
+| **Book Me Up** :books: <br /> [Backend](https://github.com/natashamcintyre/bookmeup-api) [Frontend](https://github.com/natashamcintyre/bookmeup) | Web application to facilitate community book sharing. Final project at Makers. | MongoDB, Express, React, Node.JS. Tested with Enzyme, Mocha-Chai and Cypress. APIs and single page functionality. Built in an agile team over 2 weeks.|
+| [**UFO NM-ation**](https://github.com/natashamcintyre/ufo-animation) :alien: <br /> [play it here](https://ufo-nm-ation.herokuapp.com/) | Animation of a UFO landing, using mathematics to map the paths of motion | JavaScript. Built independently over a few days |
+| [**Bank Tech Test**](https://github.com/natashamcintyre/bank-tech-test) :bank: | Independent project focused on high code quality | Ruby, tested with RSpec and linted with Rubocop. |
 
 ## Skills :bow_and_arrow:
 
@@ -22,64 +22,60 @@ Collaborative, resilient and adaptable, I am a full stack software developer wit
 
 - Analyse, simplify problems and create solutions.
 - Lead features, plan and build.
-- Test-driven development to ensure reliability and build complexity.
-- Apply mathematical analysis and resilience to solve complex issues.
-- Use interpersonal and pastoral problem solving skills to support learning and overall wellbeing.
+- TDD
 
 #### Organisational, analytical and resilience skills
 
-- Balance and prioritise various responsibilities, including feature leading, mentoring, reviewing code, shipping features, code maintainance, identifying and fixing bugs and leading tech strategy.
-- Resilient and persistant, able to call on alternative strategies whilst not afraid to ask for help.
+- Resilient and persistent, able to call on alternative strategies whilst not afraid to ask for help.
 - Seek and give feedback, reflect, analyse my progress and implement growth.
-- Strong self-learning skills and effective time management.
-- Adapt to last minute changes that come with working at a start-up.
+- Good prioritisation skills
 
 #### Communication, collaboration and leadership skills
 
-- Promote effective teamwork in cross-functional, agile teams with a mixture of independent work, pairing and mobbing.
 - Champion equality, inclusivity and flexibility.
-- Leading the tech strategy scheme.
+- Led the tech strategy scheme.
 - Work closely with stakeholders, end users, product managers, designers and fellow developers, listening and contributing ideas to find elegant and simple solutions.
-- Effective communication with a wide variety of people across multiple age ranges and in a variety of working relationships, including sensitive topics.
-- Mentored peers and learners;
-  - used coaching skills to guide, deepen understanding, encourage questioning and build resilience.
-  - gave feedback to increase confidence and suggest next steps.
+- Mentored peers and learners using coaching skills and feedback.
+
+
+## Aims :smile:
+**I like to work with people who...**
+are kind, and who value teamwork and balance. I want to be part of a diverse workforce with people who champion different strengths, are not afraid to ask for help or offer support, and value learning.
+
+**In my next job it's important that...**
+I have opportunities to take some ownership. I have really enjoyed feature leading and would love to continue doing this or something similar.
+
+**In 3-5 years I want to be...**
+a senior engineer who is solving interesting and exciting problems, and who has made, and continues to make, a positive impact in a sector that truly benefits quality of life.
 
 ## Experience :owl:
 
 **Nested Estate Agent** (May 2021 to present)
 _Software Engineer_
 
-Very proud of my progress at Nested, I have risen to multiple challenges whether technical, team or business related, as evidenced in my performance reviews and promotions. Working in agile, cross-functional teams in multiple formats and sizes, I successfully lead features, collaborating and facilitating decision making, overseeing the build and using retrospectives to reflect, share and receive feedback both for my learning and the team's growth. I review code in consideration of best practices, using the discussion to generate learning opportunities, and am mentoring a peer in their first role as a product engineer. I am also leading the tech strategy initiative, I deliver learning sessions internally and at an external Elixir training day, and I have attended conferences to expand my knowledge and network. Some examples of my technical achievements include:
+Very proud of my progress at Nested, I have risen to multiple challenges whether technical, team or business related, as evidenced in my performance reviews and promotions.
 
-- Responded to an environment variables breach which required investigation into multiple areas of legacy code and repos that I had previously not touched, meaning I had to learn fast!
-- Created a new database, backfilled and ported data accurately and transitioned the app across to simplify and solve a duplication issue with the least impact on the end user.
-- Successfully led a timeline feature in the CRM which involved complex queries of multiple databases and sorting chronologically
-- Implemented pagination for a costly query to reduce wait time for the user and the load on the database.
-- Built an animated list component which slides up and down as new items are added and removed.
-- Upgraded multiple dependencies to reduce security issues.
-- Implemented storybook successfully to improve documentation. Aimed to simplify the process for future developers adding stories.
+- Joined a cross-functional team of 14 to build new features, which reduced to 3, giving me the opportunity to rise to multiple challenges and take on leadership responsibilities.
+- Led features from idea to ship, worked closely with product managers and designers, facilitated discussion, planned and oversaw the build on features that reduced stakeholder workload by 30%.
+- Collaborated closely with colleagues and stakeholders to drive initiatives to eliminate reliance on third party tools, reducing overheads by over 50%
+- Delivered training sessions, reviewed code, led tech strategy initiative, mentored a colleague and regularly sought feedback to learn and progress.
+- Thoroughly enjoy the variety of working across the entire stack
 
 
 **Projects at Makers Academy** (Oct 2020 to Feb 2021)  
 _Student_
 
-- Worked in an agile team to develop the beginnings of a book sharing app, [Book Me Up](https://github.com/natashamcintyre/CV/blob/master/README.md#Projects), in an entirely new tech stack in just two weeks. We focused on using a high-quality test-driven development process and sharing our learnings across the team to ensure all team members understood all parts of the code.
+- Worked in an agile team to develop [Book Me Up](https://github.com/natashamcintyre/CV/blob/master/README.md#Projects) in an entirely new tech stack in just two weeks. Focused on using a high-quality TDD process and sharing learnings across the team.
 - Built imitations of several well-known services, including [Twitter](https://github.com/natashamcintyre/chitter-challenge), [Instagram](https://github.com/natashamcintyre/instagram-challenge), [Facebook](https://github.com/natashamcintyre/acebook-JAANIS) and [Airbnb](https://github.com/natashamcintyre/makersbnb_challenge), some collaboratively and some individually.
 - Completed code reviews with experienced software developers. Please find my most recent feedback [here](https://github.com/natashamcintyre/CV/blob/master/Review-Feedback-Natasha-McIntyre-2021-03-26%20feedback.pdf).
 
-**St Margaret's School** (Sept 2017 to Aug 2020)  
-_Assistant Examinations Officer and Teacher of Maths_
+**Various Secondary Schools** (Sept 2010 to Aug 2020)  
+_Teacher of Maths, Assistant Examinations Officer and Assistant Head of Year 12-13_
 
 - Responsible for teaching students aged 11 - 18, including Further Maths, and ensuring internal and public examinations were executed lawfully and with accurate data.
-- Required outstanding communication, planning and time management skills, efficient decision making, effective collaboration with colleagues to share and develop good practices, strong independent skills, persistence, and resilience in a high-pressure, fast-paced environment.
-
-**Mill Hill County High School** (Sept 2010 to Aug 2014)  
-_Assistant Head of Year 12-13 and Teacher of Maths_
-
-- Applied strong organisation and empathetic skills to my roles, which included overall responsibility for all sixth form students, effective teaching to a wide variety of students as well as leadership and support roles on ski, sport and Duke of Edinburgh trips.
-- Mentored multiple newly qualified teachers
-
+- Required outstanding communication, planning and time management skills, efficient decision making, effective collaboration with colleagues to share and develop good practices, strong organisation and empathetic skills, independent skills, persistence, and resilience in a high-pressure, fast-paced environment.
+- Led and assisted with school ski trips and other extra-curricular events and activities.
+- Mentored colleagues.
 
 ## Education :woman_student:
 
