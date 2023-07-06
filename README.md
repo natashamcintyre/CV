@@ -11,6 +11,7 @@ Collaborative, resilient and adaptable, I am a full stack software developer wit
 
 | Name           | Description       | Tech/tools        |
 | -------------- | ----------------- | ----------------- |
+| **Osprey Charging Network** 🔌🚗 <br /> Customer App <br /> Back office | Tech for electric vehicle charging stations. | Typescript, VueJS, Quasar, Capacitor, Vite, Vitest, Java, Spring, APIs, AWS. Agile Scrum-ban style.
 | **Nested Tech** :house_with_garden: <br /> [Nested website](https://nested.com) <br /> Customer App <br /> Agent CRM | Tech platform for self-employed agents. Cross-functional agile team. | ReactJS, GraphQL, Flow, Elixir (Phoenix), Postgresql, Absinthe, Apollo, mjml, Jest, Cypress, Terraform, GCP. [Feature leading](https://nested.com/blog/posts/feature-lead-engineers-ship-better-products-faster). Agile (Kanban) style. Also involves Zapier, Prismic, webhooks, Elasticsearch, Docker and other third party integrations.
 | **Book Me Up** :books: <br /> [Backend](https://github.com/natashamcintyre/bookmeup-api) [Frontend](https://github.com/natashamcintyre/bookmeup) | Web application to facilitate community book sharing. Final project at Makers. | MongoDB, Express, React, Node.JS. Tested with Enzyme, Mocha-Chai and Cypress. APIs and single page functionality. Built in an agile team over 2 weeks.|
 | [**UFO NM-ation**](https://github.com/natashamcintyre/ufo-animation) :alien: <br /> [play it here](https://ufo-nm-ation.herokuapp.com/) | Animation of a UFO landing, using mathematics to map the paths of motion | JavaScript. Built independently over a few days |
@@ -40,7 +41,7 @@ Collaborative, resilient and adaptable, I am a full stack software developer wit
 
 ## Aims :rocket:
 **I like to work with people who...**
-are kind, and who value teamwork and balance. I want to be part of a diverse workforce with people who champion different strengths, are not afraid to ask for help or offer support, and value learning.
+are kind, and who value honest and open communication, teamwork and balance. I want to be part of a diverse workforce with people who champion different strengths, are not afraid to ask for help or offer support, and value learning.
 
 **In my next job it's important that...**
 I have opportunities to take some ownership. I have really enjoyed feature leading and would love to continue doing this or something similar.
@@ -50,16 +51,26 @@ a senior engineer who is solving interesting and exciting problems, and who has 
 
 ## Experience :owl:
 
-**Nested Estate Agent** (May 2021 to present)
+**Osprey Charging Network** (Mar 2023 to present)
 _Software Engineer_
 
-Very proud of my progress at Nested, I have risen to multiple challenges whether technical, team or business related, as evidenced in my performance reviews and promotions.
+- Joined a fairly new cross-funcional team of 8 working alongside a team of 3 consultants bringing the tech in house.
+- Working in a completely new tech stack and structure including separate development, staging and production environments and with native apps.
+- Introduced front end component and unit tests.
+- Set up linting and code quality checks.
+- Upgraded multiple tools including Vue 2 to Vue 3, Capacitor 2 to 5 and custom plugins.
+
+
+**Nested Estate Agent** (May 2021 to Mar 2023)
+_Software Engineer_
+
+Very proud of my progress at Nested, I rose to multiple challenges whether technical, team or business related, as evidenced in my performance reviews and promotions.
 
 - Joined a cross-functional team of 14 to build new features, which reduced to 3, giving me the opportunity to rise to multiple challenges and take on leadership responsibilities.
 - Led features from idea to ship, worked closely with product managers and designers, facilitated discussion, planned and oversaw the build on features that reduced stakeholder workload by 30%.
 - Collaborated closely with colleagues and stakeholders to drive initiatives to eliminate reliance on third party tools, reducing overheads by over 50%.
 - Delivered training sessions, reviewed code, led tech strategy initiative, mentored a colleague and regularly sought feedback to learn and progress.
-- Thoroughly enjoy the variety of working across the entire stack.
+- Thoroughly enjoyed the variety of working across the entire stack.
 
 
 **Projects at Makers Academy** (Oct 2020 to Feb 2021)  
