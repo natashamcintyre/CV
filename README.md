@@ -54,7 +54,7 @@ a senior engineer who is solving interesting and exciting problems, and who has 
 **Osprey Charging Network** (Mar 2023 to present)
 _Software Engineer_
 
-- Joined a fairly new cross-funcional team of 8 working alongside a team of 3 consultants bringing the tech in house.
+- Joined a fairly new cross-functional team of 8 working alongside a team of 3 consultants bringing the tech in house.
 - Working in a completely new tech stack and structure including separate development, staging and production environments and with native apps.
 - Introduced front end component and unit tests.
 - Set up linting and code quality checks.
